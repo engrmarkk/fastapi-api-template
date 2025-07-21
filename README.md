@@ -3,7 +3,7 @@
 
 
 ```
-#SQLALCHEMY_DATABASE_URI=postgresql://postgres@localhost:5432/<database_name>
+SQLALCHEMY_DATABASE_URI=postgresql://postgres@localhost:5432/<database_name>
 SECRET_KEY=
 ALGORITHM=HS256
 ACCESS_TOKEN_EXPIRE_MINUTES=
