@@ -2,7 +2,7 @@
 #### Env should look like this (take a look at the environmentals/__init__.py to see which is needed and not)
 
 
-```json
+```
 #SQLALCHEMY_DATABASE_URI=postgresql://postgres@localhost:5432/<database_name>
 SECRET_KEY=
 ALGORITHM=HS256
